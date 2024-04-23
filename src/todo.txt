@@ -1,0 +1,12 @@
+1. Empty Project Structure
+2. Database Connection
+3. DB Model
+4. Create API --> Postman Test
+5. Read API --> Postman Test
+6. Update API --> Postman Test
+7. Delete API --> Postman Test
+................................
+8. Read Page--> Table Rows--> Delete Items
+9. Create Page--->
+10. Update Page--->params -->Catch parms--> Exiting Info-->Update Submit
+--------------------------------
